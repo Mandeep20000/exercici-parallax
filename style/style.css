@@ -1,1 +1,16 @@
+main{
+    height: 20px;
+    overflow-x: auto;
+    overflow-y: auto ;
+    perspective: 4px;
 
+}
+
+section{
+
+}
+
+.bg::after{
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rtve.es%2Ftelevision%2F20220404%2Fbts-quienes-son-premios-grammy-2022-exito-claves%2F2327076.shtml&psig=AOvVaw3VpYAUTxlfZPa_tzK5lDuF&ust=1677230074492000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiDpounq_0CFQAAAAAdAAAAABAD");
+    background-size: cover;
+}
