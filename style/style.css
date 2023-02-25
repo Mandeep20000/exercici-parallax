@@ -52,6 +52,7 @@ body{
     display:flex;
     align-items: center;
     justify-content: center;
+    min-height: 100vh;
    
 }
 
@@ -61,7 +62,7 @@ body{
 }
 
 table{
-    color:rgba(255,255,255,0.2);
+    color:#ffff;
     font-size: 14px;
     table-layout: fixed;
     border-collapse:collapse;1
