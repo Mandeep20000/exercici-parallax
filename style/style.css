@@ -58,6 +58,7 @@ body{
 
 .container{
     border:solid 1px rgba(255,255,255,0.2);
+    float:right;
 
 }
 
@@ -89,3 +90,4 @@ tbody tr:hover {
     background: rgba(243,103,199,0.4);
 
 }
+/*PARALLAX*/
