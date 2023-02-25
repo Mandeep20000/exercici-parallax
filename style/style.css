@@ -2,6 +2,7 @@ body{
     background:rgba(102,102,102,1);
 
 }
+/* MENU FIXE*/
 #menu ul{
     list-style: none;
     margin:0;
@@ -45,3 +46,5 @@ body{
         transform:scale(1.6);
     }
 }
+
+/*taula de valors*/
