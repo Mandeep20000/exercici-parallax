@@ -57,6 +57,6 @@ section h1 {
     z-index:-1;
 }
 .bg::after{
-    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rtve.es%2Ftelevision%2F20220404%2Fbts-quienes-son-premios-grammy-2022-exito-claves%2F2327076.shtml&psig=AOvVaw3VpYAUTxlfZPa_tzK5lDuF&ust=1677230074492000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPiDpounq_0CFQAAAAAdAAAAABAD");
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.dreamstime.com%2Fbosque-hermoso-en-los-senderos-la-naturaleza-trails-image148208828&psig=AOvVaw0O3tSf5s2lzS2mK4ap3EvX&ust=1677406256385000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCLjt0LS3sP0CFQAAAAAdAAAAABAD");
     background-size: cover;
 }
