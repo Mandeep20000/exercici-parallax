@@ -11,6 +11,8 @@ body{
 
 #menu ul li{
     float:left;
+    position: static;
+    position: initial;
 
 }
 
