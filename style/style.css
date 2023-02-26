@@ -1,85 +1,37 @@
-
-/*taula de valors*/
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
-}
 body{
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-  
-}
-
-.container{
-    border:solid 1px rgba(255,255,255,0.2);
-    
+    background:rgba(102,102,102,1);
 
 }
 
-table{
-    color:#ffff;
-    font-size: 14px;
-    table-layout: fixed;
-    border-collapse:collapse;1
-}
-
-thead{
-    background:rgba(243,140,210,0.4);
-
-}
-th{
-    padding:20px 15px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-td{
-    padding: 15px;
-    border-bottom: solid 1px rgba(255,255,255,0.2);
-}
-tbody tr{
-    cursor: pointer;
-}
-tbody tr:hover {
-    background: rgba(243,103,199,0.4);
-
-}
-/*PARALLAX*/
-
-
-/* MENU FIXE*/
-#menu ul{
+ #menu ul{
     list-style: none;
     margin:0;
-    padding: 0;
-
+    padding:0;
 }
 
 #menu ul li{
-    float:left;   /*horizontal*/
+    float:left;
+
 }
 
-#menu a {
-   color:rgba(255,255,255,1);
-   text-decoration: none;
-   display: block;
-   padding:12px 26px;
-   font-size: 18px;
+#menu a{
+    color:rgba(255,255,255,1);
+    display: block;
+    padding: 12px 26px;
+    font-size: 18px;
+
 }
 
-#menu {
-    background: rgba(102,102,102,1);
+#menu{
+    background:rgba(102,102,102,1);
     width: 1000px;
     height:52px;
-
 }
-.barra{
-    color:rgba(153,153,153,1);
-    padding: 15px 0 0 0;
 
+.barra
+{
+    color: rgba(153,153,153,1);
+    padding: 15px 0 0 0;
 }
 
 #menu a:hover{
@@ -90,52 +42,8 @@ tbody tr:hover {
 
 @keyframes ms{
     0%{
-        opacity:0;
-        transform:scale(1.6);
+    opacity: 0;
+transform: scale(1.6);
     }
 }
 
-/*taula de valors*/
-body{
-    display:flex;
-    align-items: center;
-    justify-content: center;
-    min-height: 100vh;
-   
-}
-
-.container{
-    border:solid 1px rgba(255,255,255,0.2);
-    float:right;
-
-}
-
-table{
-    color:#ffff;
-    font-size: 14px;
-    table-layout: fixed;
-    border-collapse:collapse;1
-}
-
-thead{
-    background:rgba(243,140,210,0.4);
-
-}
-th{
-    padding:20px 15px;
-    font-weight: 700;
-    text-transform: uppercase;
-}
-
-td{
-    padding: 15px;
-    border-bottom: solid 1px rgba(255,255,255,0.2);
-}
-tbody tr{
-    cursor: pointer;
-}
-tbody tr:hover {
-    background: rgba(243,103,199,0.4);
-
-}
-/*PARALLAX*/
