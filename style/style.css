@@ -142,5 +142,5 @@ section h1{
 
 .bg::after {
 
-    background: linear-gradient(rgba(0,0,0,.5)rgba(0,0,0,.5)), url("https://www.google.com/url?sa=i&url=https%3A%2F%2Flagavetavoladora.com%2Fel-bosque-de-los-enigmas-sendero-anaga-facil-y-recomendado%2F&psig=AOvVaw3IE3HP0RG7IDCEsvPwKU2F&ust=1677511207982000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODi6q6-s_0CFQAAAAAdAAAAABAE");
+    background: linear-gradient(rgba(0,0,0,.5)rgba(0,0,0,.5)), url("./assets/bosque.jpg");
 }
