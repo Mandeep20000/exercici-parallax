@@ -142,5 +142,5 @@ section h1{
 
 .bg::after {
 
-    background: linear-gradient(rgba(0,0,0,.5)rgba(0,0,0,.5)), url("./assets/bosque.jpg");
+    background: linear-gradient(rgba(0,0,0,.5)rgba(0,0,0,.5)), url("https://elcomercio.pe/resizer/9exVpR4JcABxPxjrULSMhT_lUSo=/1200x800/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/NSZWOG42ZFDYZI7RH7BKEJU7RE.jpg");
 }
